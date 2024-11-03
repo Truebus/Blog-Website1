@@ -74,7 +74,7 @@ export const Blog = () => {
                         <button 
                             type="button" 
                             onClick={adddata} 
-                            className="bg-violet-400 ml-[470px] h-[50px] w-[100px] p-2 font-bold rounded-lg hover:bg-gradient-to-tr from-red-600 to-yellow-400">
+                            className="bg-violet-400 ml-[470px] h-[60px] w-[100px] p-2 font-bold rounded-lg hover:bg-gradient-to-tr from-red-600 to-yellow-400">
                             {isEdit ? "Update Blog" : "Add Blog"}
                         </button><br />
                         <label htmlFor="title" className="text-2xl font-semibold">Title:</label>
