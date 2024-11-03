@@ -7,5 +7,8 @@ body{
   background-color: bisque;
 }
 #lists li{
-  text-shadow: 2px 2px 2px rgb(1, 1, 255);
+  text-shadow: 2px 2px 5px rgb(255, 116, 24);
+}
+#text1{
+  text-shadow: 3px 3px 5px rgb(0, 238, 255);
 }

@@ -37,7 +37,7 @@ export const Products=()=>{
                                shadow-blue-500 shadow-lg hover:-translate-y-3 duration-300 scale-100">
                          <Link to={`/blog/${x.id}`}>   <h1 className="text-orange-600 font-semibold hover:text-blue-900 text-center">
                                  {x.title}  </h1></Link>
-                            <img className="border-2 border-black rounded-lg" src={x.images[0]} alt="no found"/>
+                            <img className="border-2 border-black rounded-lg h-[200px] w-[220px]" src={x.images[0]} alt="no found"/>
                             <p className="text-justify">{x.description}</p>
                             </div>
                         ))}

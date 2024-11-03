@@ -6,6 +6,7 @@ import { Products } from './Components/Products'
 import { Footer } from './Components/Footer'
 import { NotFound } from './Components/NotFound'
 import { Details } from './Components/Details'
+import { Blog } from './Components/Blog'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
     <Route path='/products' element={<Products/>}/>
     <Route path='/blog/:productId' element={<Details/>}/>
     <Route path='/*' element={<NotFound/>}/>
+    <Route path='/newblog' element={<Blog/>}/>
   </Routes>
   <Footer/>
   </BrowserRouter>
