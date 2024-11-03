@@ -10,7 +10,7 @@ JavaScript, HTML, CSS, and React.js
 # Framework:-
 For style, use Tailwind.
 # Demo:-
--The To-Do App (https://github.com/Truebus/Blog-Website1) allows users to view a demo of my project.
+- The To-Do App (https://github.com/Truebus/Blog-Website1) allows users to view a demo of my project.
 - [To-DO App]:(https://blog-website1-nine.vercel.app/) allows users to view a demo of my project.
 
 
