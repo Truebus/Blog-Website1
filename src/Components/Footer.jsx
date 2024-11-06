@@ -7,7 +7,7 @@ export const Footer=()=>{
         <div className="flex justify-evenly bg-blue-300 m-3">
             <div>
                 <ul>
-                    <h1 className="text-lg font-semibold text-red-700">Company</h1>
+                    
                     <li className="font-medium hover:text-blue-950">About Us</li>
                     <li className="font-medium hover:text-blue-950">Press</li>
                     <li className="font-medium hover:text-blue-950">Support</li>
